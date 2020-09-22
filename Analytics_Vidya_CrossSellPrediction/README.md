@@ -2,7 +2,7 @@
 
 Participated in Analytics_Vidya_CrossSellPrediction Hackathon to predict whether a person will be interested or not to buy insurance based on various features available like id , gender, age, driving lincense, region_code, previously_insured , vehicle_age, vehicle_damage, annual_preimium, policy_sales_channel, and vintage
 
-and target variable as "Response"
+and target variable as "Response" - 1 :  Customer is interested, 0 : Customer is not interested
 
 ## Algorithms Used-
 
